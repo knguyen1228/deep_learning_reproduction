@@ -114,8 +114,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors
 
-- [Your Name]
-- [Other Contributors]
+- Khang Nguyen khang2@illinois.edu
+- Duy Nguyen duyn2@illinois.edu
 
 ## Acknowledgments
 
