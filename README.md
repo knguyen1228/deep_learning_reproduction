@@ -10,7 +10,7 @@ We reproduce and extend three machine learning approaches for SBDH classificatio
 - Random Forest
 - XGBoost
 - Bio-ClinicalBERT
-
+filtered_social_history_data.csv contains data after pre-processing
 ## Requirements
 
 ### Environment
